@@ -1,0 +1,6 @@
+{
+  "name": "Crowdtimestory",
+  "tagline": "A crowd-powered picture book to audio book converter",
+  "body": "\r\nThis project is part of ECE695 offered in Spring '15 at Purdue, where [@MensEtManus](https://github.com/MensEtManus), [@yauc](https://github.com/yauc) and I created a web application which allows users to create audio books for their favorite picture books through crowd work. This is made possible through HITs(Human Intelligence Task) on [Amazon Mechanical Turk](www.mturk.com).\r\n\r\nIt is a solid example of utilizing crowd sourcing to produce creative solutions to some problems that computer algorithms cannot solve, yet! During the process of development, we have enhanced our web development skills using Python with Flask framework and JavaScript etc. However, there are endless features that could be implemented for our application on top of the existing features. We hope you enjoy the crowd time stories you create through our web application. \r\n\r\nTo learn more about the course or our project, click [here](http://crowd.ecn.purdue.edu/695/15sp/projects/ack/).\r\n\r\n\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
