@@ -8,3 +8,21 @@ Option 2. Create a customized story for yourself and it will be added to our she
 
 ### HOW TO RUN ###
 ```python runserver.py```
+
+### SCREEN SHOTS 
+<p align="center">
+  <img src="crowdtimestory/static/images/screenshots/complete/01.jpg" alt="Screenshot"/>
+</p>
+
+<p align="center">
+  <img src="crowdtimestory/static/images/screenshots/complete/02.jpg" alt="Screenshot"/>
+</p>
+
+
+<p align="center">
+<h2>Using Amaazon Mechanical Turk as crowd source to extract scripts from user
+uploaded pictures.</h2> 
+
+<p align="center">
+  <img src="crowdtimestory/static/images/screenshots/complete/05.jpg" alt="Screenshot"/>
+</p>
